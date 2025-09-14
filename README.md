@@ -1,4 +1,4 @@
-# Research Thesis on Broadband 120° Sectoral Microstrip Antenna  
+# Research Thesis on Broadband 120° Sectoral Microstrip Antennas  
 
 ## 📄 Project Overview  
 This repository contains the design, simulation, and analysis of **Broadband 120° Sectoral Microstrip Antennas (S-MSA)** aimed at achieving **wide bandwidth**, **high gain**, and **broadside radiation patterns** for modern wireless communication systems.  
