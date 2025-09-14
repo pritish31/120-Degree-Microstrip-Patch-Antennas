@@ -40,4 +40,16 @@ The project explores:
 | Configuration                | Bandwidth (MHz) | Bandwidth (%) | Peak Gain (dBi) |
 |-------------------------------|----------------|---------------|-----------------|
 | Single 120° S-MSA             | 615–1289        | 50–62%         | >7 dBi          |
-| Gap-C
+| Gap-Coupled Variations         | 843–1076        | 61–75%         | >9 dBi          |
+| Stacked 120° Patches           | ~890            | ~59%           | >8 dBi          |
+| Desktop-Shaped Antennas        | 4.53–7.47 GHz   | 49%            | >8 dBi          |
+
+---
+
+📜 Publications
+
+Proximity Fed Broadband 120° Sectoral Microstrip Antenna, ICACC – 2017, Kochi, India
+
+Gap-Coupled Variations of 120° Sectoral Shape Microstrip Antennas for Wideband Response, AEMC 2017, Aurangabad, India
+
+Sectoral Patch Antenna Embedded with Arc Shape Slots and Slits for Circular Polarized Response, ICCICT 2018, Mumbai, India
